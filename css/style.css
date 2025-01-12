@@ -58,25 +58,15 @@ section video{
 #container #logo h1{
     width: 100%;
     height: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    font-size: 2.5em;
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
     text-align: center;
     margin-bottom: 30px;
-    padding: 20px;
-}
-
-#container #logo p{
-    width: 100%;
-    height: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    top: 80px;
-    text-align: center;
-    margin-top: 30px;
     padding: 20px;
 }
 
@@ -106,11 +96,6 @@ section video{
     outline: none;
 }
 
-#busca img{
-    margin-left: 10px;
-    margin-bottom: 15px;
-    cursor: pointer;
-}
 section video{
     width: 100%;
     height: 100%;
